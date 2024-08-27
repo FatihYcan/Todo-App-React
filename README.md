@@ -46,4 +46,6 @@ Bu proje, React ve Bootstrap kullanılarak geliştirilmiş basit bir Todo uygula
 - uuid
 - localStorage
 
+https://github.com/user-attachments/assets/7f8cc6c7-142d-4e28-a919-7e6a842b87e3
+
 [Live](https://fy-todo-app-react.netlify.app/)
